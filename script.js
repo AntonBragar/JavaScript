@@ -8,3 +8,10 @@ console.log(obj.isMarried == true);
 
 
 console.log('arr ' + '- is object');
+
+
+let massive = ['apple', 'grape', 'orange'];
+
+for (let i = 0; i < massive.length; i++) {
+    console.log(massive[i]);
+}
