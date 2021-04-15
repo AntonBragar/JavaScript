@@ -15,3 +15,13 @@ let massive = ['apple', 'grape', 'orange'];
 for (let i = 0; i < massive.length; i++) {
     console.log(massive[i]);
 }
+
+
+
+let showName = () => {
+    let 
+    question = prompt('What is your name? ', '');
+    console.log(`Hello, ${question}`);
+};
+
+showName();
